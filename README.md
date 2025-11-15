@@ -4,12 +4,14 @@ Python code for the graded robotic vision and advanced robotic vision projects.
 Part 1 (lab project): Collecting a suitable dataset using a ZED camera, Nvidia Jetson Nano and a ESP32 robot. 
 Part 2 (code project): Reconstructing the pose of the robot through the course purely based on the stereo images using Feature Matchung, PnP and RANSAC outlier rejection. For a smoother path a Kalman filter and Pose Graph Optimization where applied. 
 
-## Robot Trajectory
-Trajectory prediction based on Feature Matching
-![alt text](Full_path_n_dist_70.png)
 
-Ground Truth (Vicon System)
-![alt text](<Ground truth.png>)
+## Robot Trajectory
+
+**Trajectory prediction vs. Ground Truth**
+
+| Trajectory prediction (Feature Matching) | Ground Truth (Vicon System) |
+| ---------------------------------------- | ---------------------------- |
+| ![Trajectory prediction](Full_path_n_dist_70.png) | ![Ground Truth](Ground%20truth.png) |
 
 ## Setup
 ```bash
