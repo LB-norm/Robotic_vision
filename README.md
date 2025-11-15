@@ -9,9 +9,10 @@ Part 2 (code project): Reconstructing the pose of the robot through the course p
 
 **Trajectory prediction vs. Ground Truth**
 
-| Trajectory prediction (Feature Matching) | Ground Truth (Vicon System) |
-| ---------------------------------------- | ---------------------------- |
-| ![Trajectory prediction](Full_path_n_dist_70.png) | ![Ground Truth](Ground%20truth.png) |
+<p align="center">
+  <img src="Full_path_n_dist_70.png" alt="Trajectory prediction" width="45%">
+  <img src="Ground%20truth.png" alt="Ground Truth" width="45%">
+</p>
 
 ## Setup
 ```bash
