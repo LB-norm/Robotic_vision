@@ -1,13 +1,15 @@
 # Robotic Vision: Stereo Visual Odometry
 
-Python code for the graded robotic vision and advanced robotic vision projects. 
+Python code for the graded robotic vision and advanced robotic vision projects.
+
 Part 1 (lab project): Collecting a suitable dataset using a ZED camera, Nvidia Jetson Nano and a ESP32 robot. 
+
 Part 2 (code project): Reconstructing the pose of the robot through the course purely based on the stereo images using Feature Matchung, PnP and RANSAC outlier rejection. For a smoother path a Kalman filter and Pose Graph Optimization where applied. 
 
 
-## Robot Trajectory
+## Robot Trajectory example
 
-**Trajectory prediction vs. Ground Truth**
+**Raw Trajectory prediction (from cam perspective) vs. Ground Truth (robot center)**
 
 <p align="center">
   <img src="Prediction plot-1.png" alt="Prediction" width="45%">
