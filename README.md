@@ -10,7 +10,7 @@ Part 2 (code project): Reconstructing the pose of the robot through the course p
 **Trajectory prediction vs. Ground Truth**
 
 <p align="center">
-  <img src="c:\Users\brink\Desktop\Uni\Master IT\RV\PP\Prediction plot.png" alt="Trajectory prediction" width="45%">
+  <img src="" alt="Prediction plot-1.png" width="45%">
   <img src="Ground%20truth.png" alt="Ground Truth" width="45%">
 </p>
 
